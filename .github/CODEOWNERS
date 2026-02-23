@@ -1,0 +1,11 @@
+# Qualquer arquivo não coberto pelas regras abaixo é de responsabilidade do owner padrão.
+* @apvillela
+
+# Documentação geral do projeto
+/docs/ @apvillela
+
+# Código-fonte principal
+/src/ @apvillela
+
+# Área sensível: configurações de repositório e templates
+/.github/ @apvillela
